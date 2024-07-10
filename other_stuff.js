@@ -33,3 +33,5 @@ let person = {
 // retrieving values from the dictionary
 console.log(person['name']);
 console.log(person.name);
+
+console.log(cube(123));
